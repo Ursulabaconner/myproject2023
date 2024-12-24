@@ -314,6 +314,7 @@
 														$id_type=$rs2["pt_id"];
 														$name_type=$rs2["pt_name"];
 														if($ref_id_type==$id_type) {
+                                                        
 														echo "<option value=$id_type selected>$name_type</option>";
 														} else {
 														echo "<option value=$id_type> $name_type</option>";
