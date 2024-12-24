@@ -7,7 +7,7 @@
 
 
 ## 🚀 About Me
-I'm a web Developer , Admin and PHP Developer
+I'm a web Developer , IT Admin and PHP Developer
 
 I am someone who has experience in trying out teds. During the time I was still studying It's not much but I wanted to share. Good experiences with writing SQL and PHP code to share for everyone to see.
 
